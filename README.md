@@ -42,3 +42,6 @@ Human beings have ability to think, understand, make decisions and give their vi
 - Most of the reviews or comments of the song have postive sentiment.
 
 - We found that the sentiment of lyrics and comments need not necessarily be similar.
+
+
+<h4> Jupyter Notebook: <a href= https://github.com/abhisheknagarajan/Songs-Sentimental-Analysis-and-Recommendation-Based-on-Lyrics-and-Comments/blob/main/TEAM6_NLP.ipynb>Songs Sentimental Analysis and Recommendation Based on Lyrics and Comments.ipynb</a></h4>
