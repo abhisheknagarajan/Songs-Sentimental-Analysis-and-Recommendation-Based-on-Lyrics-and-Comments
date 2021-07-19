@@ -45,3 +45,5 @@ Human beings have ability to think, understand, make decisions and give their vi
 
 
 <h4> Jupyter Notebook: <a href= https://github.com/abhisheknagarajan/Songs-Sentimental-Analysis-and-Recommendation-Based-on-Lyrics-and-Comments/blob/main/TEAM6_NLP.ipynb>Songs Sentimental Analysis and Recommendation Based on Lyrics and Comments.ipynb</a></h4>
+
+<n4> Github Reference Inspiration: <a href= https://github.com/sq2141/Music-recommendation-engine>Music Recommendation Engine</a></h4>
